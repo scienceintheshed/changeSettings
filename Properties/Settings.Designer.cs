@@ -25,7 +25,7 @@ namespace changeSettings.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("52")]
+        [global::System.Configuration.DefaultSettingValueAttribute("101")]
         public string val1 {
             get {
                 return ((string)(this["val1"]));

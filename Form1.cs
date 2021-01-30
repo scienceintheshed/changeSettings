@@ -21,8 +21,9 @@ namespace changeSettings
         {
 
             Properties.Settings.Default.val1 = txtValue1.Text;
+            Properties.Settings.Default.val2 = txtValue2.Text;
             Properties.Settings.Default.Save();
-            Properties.Settings.Default.Reload();
+
         }
 
         private void Form1_Load(object sender, EventArgs e)

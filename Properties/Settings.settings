@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="val1" Type="System.String" Scope="User">
-      <Value Profile="(Default)">52</Value>
+      <Value Profile="(Default)">101</Value>
     </Setting>
     <Setting Name="val2" Type="System.String" Scope="User">
       <Value Profile="(Default)">45</Value>
